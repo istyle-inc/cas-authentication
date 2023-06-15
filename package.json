@@ -32,5 +32,8 @@
   },
   "publishConfig": {
     "access": "public"
-  }
+  },
+  "contributors": [
+    { "name": "istyle-inc", "url": "https://www.istyle.co.jp/" }
+  ]
 }
