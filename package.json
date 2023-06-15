@@ -12,16 +12,16 @@
     "middleware",
     "express"
   ],
-  "homepage": "https://github.com/kylepixel/cas-authentication",
+  "homepage": "https://github.com/istyle-inc/cas-authentication",
   "bugs": {
-    "url": "https://github.com/kylepixel/cas-authentication/issues"
+    "url": "https://github.com/istyle-inc/cas-authentication/issues"
   },
   "license": "MIT",
   "author": "Kyle Maguire <kylepixel@gmail.com>",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/kylepixel/cas-authentication.git"
+    "url": "https://github.com/istyle-inc/cas-authentication.git"
   },
   "dependencies": {
     "xml2js": "^0.4.8"
@@ -29,5 +29,11 @@
   "devDependencies": {
     "express": "^4.12.3",
     "express-session": "^1.11.1"
-  }
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "contributors": [
+    { "name": "istyle-inc", "url": "https://www.istyle.co.jp/" }
+  ]
 }
