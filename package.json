@@ -1,6 +1,6 @@
 {
   "name": "@istyle-inc/cas-authentication",
-  "version": "0.0.9",
+  "version": "0.0.10",
   "description": "A CAS authentication library designed to be used as middleware for an Express server.",
   "keywords": [
     "cas",
@@ -34,6 +34,9 @@
     "access": "public"
   },
   "contributors": [
-    { "name": "istyle-inc", "url": "https://www.istyle.co.jp/" }
+    {
+      "name": "istyle-inc",
+      "url": "https://www.istyle.co.jp/"
+    }
   ]
 }
